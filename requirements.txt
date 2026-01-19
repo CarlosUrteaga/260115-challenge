@@ -1,0 +1,4 @@
+ydata-profiling[notebook]
+ydata-profiling
+scikit-learn
+pandas
